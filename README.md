@@ -3,11 +3,16 @@ Diese Notentabelle ist in der Regel selbsterklärend.
 
 
 
-| Title:	| Notenlisten nach dem IHK Schlüssel |
-| ------------- | ------------- |
-| Author:   | MAWSpitau |
-| Version:  | 1.0 |
-| Theme:    | Diese Tabelle soll den Alltag des Lehrers vereinfachen. Sie ermöglicht das Berechnen von Noten nach dem IHK-Notenschlüssel.|
+| Title:   | Notenlisten nach dem IHK Schlüssel                                                                                          |
+|:---------|:----------------------------------------------------------------------------------------------------------------------------|
+| Author:  | MAWSpitau                                                                                                                   |
+| Version: | 1.0                                                                                                                         |
+| Theme:   | Diese Tabelle soll den Alltag des Lehrers vereinfachen. Sie ermöglicht das Berechnen von Noten nach dem IHK-Notenschlüssel. |
+
+## Screenshots
+
+![Die Tabelle füllmichaus](screenshot01.png)
+![Die Tabelle druckmich](screenshot02.png)
 
 ## Changes
 ### 2015-09-07
